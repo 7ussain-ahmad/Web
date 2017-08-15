@@ -1,0 +1,12 @@
+.t{text-align: center ; text-shadow: teal;
+     border-block-end-style: dashed;font-family: Courier New, Courier, monospace;
+    font-style: oblique}
+    .wrapper {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+     }
+
+.button {
+    position: absolute;
+    top: 50%;
+}
